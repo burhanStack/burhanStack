@@ -150,7 +150,7 @@ Online learning platform.
 <p align="center">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=burhan5246&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=burhanStack&theme=tokyonight" />
 
 
 
