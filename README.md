@@ -13,7 +13,7 @@ Building scalable web applications, SaaS platforms, and AI-powered solutions wit
 ## 👨‍💻 About Me
 
 - 💼 Senior Full Stack Developer with **9+ years** of experience
-- 🚀 Specialized in **React.js, Next.js, Node.js, TypeScript, Python, MongoDB & AWS**
+- 🚀 Specialized in **React.js, Next.js, Node.js, TypeScript, Python, PostgreSQL, MongoDB & AWS**
 - 🤖 Building **AI-powered applications** using OpenAI APIs and RAG
 - 🌍 Available for **Remote Full-Time** and **Freelance** opportunities
 - 💡 Passionate about writing clean, scalable, and maintainable code
